@@ -3,7 +3,7 @@
 ##  Project Overview
 This project presents an interactive **Excel Dashboard** designed to analyze the digital behavior and health patterns of Indian children. The dashboard evaluates screen time usage, health impacts, educational content consumption, and device preferences through dynamic visualizations.
 
-The objective is to identify trends and provide meaningful insights into children's digital habits.
+
 
 ---
 
